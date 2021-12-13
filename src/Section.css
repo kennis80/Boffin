@@ -1,0 +1,9 @@
+.root{
+    background-color: brown;
+}
+.root button{
+    border-radius: 15px;
+    color:blue;
+    height: 50px;
+    width: 100px;
+}
